@@ -1,8 +1,8 @@
 
 # Simple Customer Information application 
 
-This is a simple customer information application based on MERN tech stack which enables us to store and update the customer personal information.
-The log management tool, Graylog has been also integrated with this MERN application which tracks and logs all the requests to the application.
+* This is a simple customer information application based on MERN tech stack which enables us to store and update the customer personal information.
+* The log management tool, Graylog has been also integrated with this MERN application which tracks and logs all the requests to the application.
 
 # Register
 
